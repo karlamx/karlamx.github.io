@@ -3,6 +3,11 @@ body
 	background-color:#EFF4F9;
 }
 
+#logo {
+padding: 5px;
+}
+
+
 #smallscreen{
 font-family:"claphappy";
 width: 500px;
