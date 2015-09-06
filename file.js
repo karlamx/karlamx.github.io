@@ -1,5 +1,5 @@
 
-function functionstart(id)
+function functionmiddleeast(id)
 {
  	document.getElementById("smallscreen").style.backgroundImage = "url('broom.png')";
 document.getElementById("buttonmakeup").style.display = "block";
