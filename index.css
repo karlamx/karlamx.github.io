@@ -4,6 +4,12 @@ body
 	background-color:#FFC500 !important;
 }
 
+#instructions{
+font-family: "claphappy";
+font-size: 40px;
+font-color: #FFFFFF;
+}
+
 #smallscreen{
 font-family:"claphappy";
 width: 500px;
