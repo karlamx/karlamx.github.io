@@ -30,7 +30,7 @@ body, a, a:hover { cursor:url('http://www.dolliehost.com/dolliecrave/cursors/cur
 }
 
 body{
-	background-color:#FFC42C; 
+	background-color:#FFC42C !important; 
 font-family: "claphappy"; 
 }
 
